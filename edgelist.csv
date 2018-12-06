@@ -1,0 +1,139 @@
+,SourceNmae,TargetName,SourceID,TargetID,CosSim
+0,Armenia,Cambodia,0,20,0
+1,Armenia,Azerbaijan,0,9,0.991973749
+2,Armenia,Myanmar,0,6,0.987437246
+3,Afghanistan,Cambodia,1,20,0
+4,Afghanistan,Tajikistan,1,35,0.977681276
+5,Afghanistan,Nepal,1,28,0.97468837
+6,Bahrain,Cambodia,2,20,0
+7,Bahrain,Qatar,2,32,0.927239538
+8,Bahrain,Turkmenistan,2,37,0.916958554
+9,Bangladesh,Cyprus,3,8,0
+10,Bangladesh,Pakistan,3,29,0.993578184
+11,Bangladesh,India,3,11,0.975858572
+12,Bhutan,Cyprus,4,8,0
+13,Bhutan,India,4,11,0.800731982
+14,Bhutan,Pakistan,4,29,0.784977465
+15,Brunei Darussalam,Cambodia,5,20,0
+16,Brunei Darussalam,Singapore,5,34,0.970431062
+17,Brunei Darussalam,Japan,5,17,0.954149724
+18,Myanmar,Cambodia,6,20,0
+19,Myanmar,Armenia,6,0,0.987437246
+20,Myanmar,Lao People's Democratic Republic,6,24,0.979378299
+21,Sri Lanka,Cambodia,7,20,0
+22,Sri Lanka,Philippines,7,30,0.986051666
+23,Sri Lanka,Japan,7,17,0.95767012
+24,Cyprus,India,8,11,0
+25,Cyprus,Cambodia,8,20,0
+26,Cyprus,Kyrgyzstan,8,19,0
+27,Azerbaijan,Cambodia,9,20,0
+28,Azerbaijan,Armenia,9,0,0.991973749
+29,Azerbaijan,Syrian Arab Republic,9,36,0.989906867
+30,Georgia,Cambodia,10,20,0
+31,Georgia,Jordan,10,18,0.957149272
+32,Georgia,Kyrgyzstan,10,19,0.956320084
+33,India,Cambodia,11,20,0
+34,India,Pakistan,11,29,0.994038706
+35,India,Nepal,11,28,0.982087045
+36,Indonesia,Cambodia,12,20,0
+37,Indonesia,Malaysia,12,26,0.984627537
+38,Indonesia,Philippines,12,30,0.972791019
+39,"Iran, Islamic Republic of",Cambodia,13,20,0
+40,"Iran, Islamic Republic of",Thailand,13,38,0.981362792
+41,"Iran, Islamic Republic of",China,13,45,0.948861339
+42,Iraq,Cambodia,14,20,0
+43,Iraq,Uzbekistan,14,42,0.990309396
+44,Iraq,Azerbaijan,14,9,0.982435469
+45,Israel,Cyprus,15,8,0
+46,Israel,Lebanon,15,25,0.982519882
+47,Israel,Turkey,15,40,0.981597351
+48,Kazakhstan,Cyprus,16,8,0
+49,Kazakhstan,Turkey,16,40,0.984337661
+50,Kazakhstan,Saudi Arabia,16,33,0.977283465
+51,Japan,Cambodia,17,20,0
+52,Japan,Malaysia,17,26,0.979843287
+53,Japan,"Korea, Republic of",17,22,0.97830198
+54,Jordan,Cambodia,18,20,0
+55,Jordan,Kyrgyzstan,18,19,0.995311482
+56,Jordan,Viet Nam,18,43,0.992027456
+57,Kyrgyzstan,Cambodia,19,20,0
+58,Kyrgyzstan,Jordan,19,18,0.995311482
+59,Kyrgyzstan,Uzbekistan,19,42,0.988655515
+60,Cambodia,India,20,11,0
+61,Cambodia,Kyrgyzstan,20,19,0
+62,Cambodia,Jordan,20,18,0
+63,"Korea, Democratic People's Republic of",Cyprus,21,8,0
+64,"Korea, Democratic People's Republic of",Kuwait,21,23,0.925737397
+65,"Korea, Democratic People's Republic of",India,21,11,0.855161303
+66,"Korea, Republic of",Cambodia,22,20,0
+67,"Korea, Republic of",Malaysia,22,26,0.993852367
+68,"Korea, Republic of",Japan,22,17,0.97830198
+69,Kuwait,Cyprus,23,8,0
+70,Kuwait,India,23,11,0.964590957
+71,Kuwait,China,23,45,0.954776684
+72,Lao People's Democratic Republic,Cambodia,24,20,0
+73,Lao People's Democratic Republic,Viet Nam,24,43,0.981316992
+74,Lao People's Democratic Republic,Myanmar,24,6,0.979378299
+75,Lebanon,Cambodia,25,20,0
+76,Lebanon,Israel,25,15,0.982519882
+77,Lebanon,Azerbaijan,25,9,0.982420283
+78,Malaysia,Cambodia,26,20,0
+79,Malaysia,"Korea, Republic of",26,22,0.993852367
+80,Malaysia,Indonesia,26,12,0.984627537
+81,Mongolia,Cyprus,27,8,0
+82,Mongolia,Georgia,27,10,0.506273772
+83,Mongolia,Turkmenistan,27,37,0.47154067
+84,Nepal,Cambodia,28,20,0
+85,Nepal,Tajikistan,28,35,0.996638548
+86,Nepal,India,28,11,0.982087045
+87,Pakistan,Cyprus,29,8,0
+88,Pakistan,India,29,11,0.994038706
+89,Pakistan,Bangladesh,29,3,0.993578184
+90,Philippines,Cambodia,30,20,0
+91,Philippines,Sri Lanka,30,7,0.986051666
+92,Philippines,Indonesia,30,12,0.972791019
+93,Timor-Leste,Cyprus,31,8,0
+94,Timor-Leste,Yemen,31,44,0.927630709
+95,Timor-Leste,Bangladesh,31,3,0.923011757
+96,Qatar,Cambodia,32,20,0
+97,Qatar,Bahrain,32,2,0.927239538
+98,Qatar,Brunei Darussalam,32,5,0.852089048
+99,Saudi Arabia,Cambodia,33,20,0
+100,Saudi Arabia,Kazakhstan,33,16,0.977283465
+101,Saudi Arabia,Israel,33,15,0.97626022
+102,Singapore,Cyprus,34,8,0
+103,Singapore,Brunei Darussalam,34,5,0.970431062
+104,Singapore,United Arab Emirates,34,41,0.965245069
+105,Tajikistan,Cambodia,35,20,0
+106,Tajikistan,Nepal,35,28,0.996638548
+107,Tajikistan,Afghanistan,35,1,0.977681276
+108,Syrian Arab Republic,Cyprus,36,8,0
+109,Syrian Arab Republic,Azerbaijan,36,9,0.989906867
+110,Syrian Arab Republic,Turkey,36,40,0.982368226
+111,Turkmenistan,Cambodia,37,20,0
+112,Turkmenistan,Georgia,37,10,0.955172531
+113,Turkmenistan,Iraq,37,14,0.939121904
+114,Thailand,Cambodia,38,20,0
+115,Thailand,"Iran, Islamic Republic of",38,13,0.981362792
+116,Thailand,Lebanon,38,25,0.958675229
+117,Oman,Cambodia,39,20,0
+118,Oman,Yemen,39,44,0.950868655
+119,Oman,Philippines,39,30,0.921889034
+120,Turkey,Cyprus,40,8,0
+121,Turkey,Kazakhstan,40,16,0.984337661
+122,Turkey,Syrian Arab Republic,40,36,0.982368226
+123,United Arab Emirates,Cambodia,41,20,0
+124,United Arab Emirates,Singapore,41,34,0.965245069
+125,United Arab Emirates,Brunei Darussalam,41,5,0.927778339
+126,Uzbekistan,Cambodia,42,20,0
+127,Uzbekistan,Iraq,42,14,0.990309396
+128,Uzbekistan,Kyrgyzstan,42,19,0.988655515
+129,Viet Nam,Cambodia,43,20,0
+130,Viet Nam,Jordan,43,18,0.992027456
+131,Viet Nam,Kyrgyzstan,43,19,0.987633784
+132,Yemen,Cambodia,44,20,0
+133,Yemen,Oman,44,39,0.950868655
+134,Yemen,Timor-Leste,44,31,0.927630709
+135,China,Cyprus,45,8,0
+136,China,Jordan,45,18,0.985467801
+137,China,Viet Nam,45,43,0.977001222

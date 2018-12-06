@@ -1,0 +1,47 @@
+ID,NodeName,Rate,Vectors,group1
+32,Qatar,1,"[0.34, 0.07, 0.07, 0.4, 0.2, 1.0]",Top1-10 in Total Land
+41,United Arab Emirates,0.608858184,"[0.84, 0.05, 0.18, 0.63, 0.0, 0.54]",Top1-10 in Total Land
+27,Mongolia,0.59210861,"[0.04, 1.0, 0.05, 0.01, 0.25, 0.3]",Top1-10 in Total Land
+2,Bahrain,0.539827493,"[0.35, 0.09, 0.12, 0.17, 0.29, 0.5]",Top1-10 in Total Land
+23,Kuwait,0.469444042,"[0.53, 0.07, 0.07, 0.16, 0.94, 0.42]",Top1-10 in Total Land
+39,Oman,0.381066954,"[0.28, 0.07, 0.05, 0.7, 0.71, 0.33]",Top1-10 in Total Land
+33,Saudi Arabia,0.360313328,"[0.7, 0.05, 0.07, 0.17, 0.09, 0.32]",Top1-10 in Total Land
+34,Singapore,0.35068681,"[0.47, 0.05, 0.12, 0.49, 0.16, 0.3]",Top1-10 in Total Land
+22,"Korea, Republic of",0.347924805,"[0.66, 0.03, 0.07, 1.0, 0.24, 0.29]",Top1-10 in Total Land
+16,Kazakhstan,0.347767604,"[1.0, 0.04, 0.03, 0.05, 0.15, 0.31]",Top1-10 in Total Land
+37,Turkmenistan,0.331180138,"[0.41, 0.13, 0.02, 0.02, 0.27, 0.29]",Rank11-20 in Total Land
+5,Brunei Darussalam,0.330008509,"[0.25, 0.06, 0.08, 0.42, 0.09, 0.3]",Rank11-20 in Total Land
+17,Japan,0.276908231,"[0.3, 0.02, 0.09, 0.71, 0.23, 0.24]",Rank11-20 in Total Land
+15,Israel,0.27262102,"[0.8, 0.05, 0.12, 0.17, 0.23, 0.21]",Rank11-20 in Total Land
+4,Bhutan,0.269674916,"[0.26, 0.08, 1.0, 0.07, 1.0, 0.05]",Rank11-20 in Total Land
+26,Malaysia,0.255589406,"[0.56, 0.03, 0.12, 0.86, 0.29, 0.19]",Rank11-20 in Total Land
+45,China,0.208356744,"[0.47, 0.03, 0.07, 0.18, 0.47, 0.17]",Rank11-20 in Total Land
+13,"Iran, Islamic Republic of",0.188080677,"[0.45, 0.02, 0.01, 0.29, 0.28, 0.16]",Rank11-20 in Total Land
+25,Lebanon,0.18475629,"[0.49, 0.06, 0.08, 0.1, 0.25, 0.14]",Rank11-20 in Total Land
+8,Cyprus,0.182659972,"[0, 0, 0, 0, 0, 0]",Rank11-20 in Total Land
+40,Turkey,0.1750775,"[0.79, 0.02, 0.11, 0.06, 0.13, 0.12]",Rank21-30 in Total Land
+21,"Korea, Democratic People's Republic of",0.152856175,"[0.04, 0.0, 0.04, 0.05, 0.23, 0.16]",Rank21-30 in Total Land
+38,Thailand,0.12766043,"[0.56, 0.0, 0.07, 0.29, 0.27, 0.09]",Rank21-30 in Total Land
+42,Uzbekistan,0.106335415,"[0.47, 0.04, 0.03, 0.01, 0.31, 0.08]",Rank21-30 in Total Land
+9,Azerbaijan,0.10626112,"[0.42, 0.05, 0.03, 0.02, 0.18, 0.08]",Rank21-30 in Total Land
+18,Jordan,0.104039007,"[0.35, 0.03, 0.06, 0.07, 0.29, 0.08]",Rank21-30 in Total Land
+14,Iraq,0.099441059,"[0.32, 0.01, 0.0, 0.02, 0.2, 0.09]",Rank21-30 in Total Land
+0,Armenia,0.096253578,"[0.53, 0.05, 0.09, 0.01, 0.24, 0.05]",Rank21-30 in Total Land
+10,Georgia,0.088220033,"[0.14, 0.06, 0.05, 0.03, 0.12, 0.07]",Rank21-30 in Total Land
+24,Lao People's Democratic Republic,0.080704884,"[0.74, 0.03, 0.21, 0.04, 0.56, 0.0]",Rank21-30 in Total Land
+19,Kyrgyzstan,0.078654813,"[0.29, 0.05, 0.03, 0.03, 0.24, 0.05]",Rank31-40 in Total Land
+43,Viet Nam,0.077395666,"[0.48, 0.0, 0.06, 0.1, 0.43, 0.05]",Rank31-40 in Total Land
+12,Indonesia,0.069044842,"[0.3, 0.01, 0.07, 0.48, 0.24, 0.03]",Rank31-40 in Total Land
+6,Myanmar,0.065107713,"[0.87, 0.0, 0.12, 0.11, 0.46, 0.0]",Rank31-40 in Total Land
+7,Sri Lanka,0.06400029,"[0.13, 0.0, 0.06, 0.59, 0.22, 0.04]",Rank31-40 in Total Land
+36,Syrian Arab Republic,0.059268372,"[0.37, 0.02, 0.0, 0.02, 0.11, 0.04]",Rank31-40 in Total Land
+20,Cambodia,0.04980605,"[0, 0, 0, 0, 0, 0]",Rank31-40 in Total Land
+11,India,0.036700656,"[0.11, 0.0, 0.04, 0.03, 0.19, 0.03]",Rank31-40 in Total Land
+30,Philippines,0.0356539,"[0.14, 0.01, 0.03, 0.43, 0.23, 0.02]",Rank31-40 in Total Land
+28,Nepal,0.030487734,"[0.26, 0.01, 0.07, 0.01, 0.42, 0.0]",Rank31-40 in Total Land
+44,Yemen,0.029267205,"[0.01, 0.03, 0.01, 0.08, 0.11, 0.02]",Rank Out of 40 in Total Land 
+35,Tajikistan,0.026650331,"[0.24, 0.03, 0.03, 0.01, 0.36, 0.0]",Rank Out of 40 in Total Land 
+3,Bangladesh,0.015129699,"[0.11, 0.0, 0.02, 0.04, 0.3, 0.01]",Rank Out of 40 in Total Land 
+29,Pakistan,0.014734235,"[0.08, 0.0, 0.02, 0.03, 0.16, 0.01]",Rank Out of 40 in Total Land 
+1,Afghanistan,0.013647146,"[0.08, 0.04, 0.02, 0.0, 0.18, 0.0]",Rank Out of 40 in Total Land 
+31,Timor-Leste,0,"[0.0, 0.01, 0.01, 0.05, 0.16, 0.0]",Rank Out of 40 in Total Land 
