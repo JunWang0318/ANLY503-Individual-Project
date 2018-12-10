@@ -1,7 +1,7 @@
 library(ggplot2)
 library(gridExtra)
 
-nfa <- read.csv("/Users/jun/Desktop/503 final/ggplots/NFA.csv", stringsAsFactors = FALSE)
+nfa <- read.csv("NFA.csv", stringsAsFactors = FALSE)
 #View(nfa)
 
 nfa$country <- as.factor(nfa$country)
