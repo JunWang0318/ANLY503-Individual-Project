@@ -1,6 +1,6 @@
 library(ggplot2) 
 
-nfa <- read.csv("/Users/jun/Desktop/503 final/ggplots/NFA.csv", stringsAsFactors = FALSE)
+nfa <- read.csv("NFA.csv", stringsAsFactors = FALSE)
 
 sub_nfa <- nfa[which(nfa$country!='World' & nfa$year==2014 & nfa$record=='BiocapPerCap'),]
 
