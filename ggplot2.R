@@ -1,6 +1,6 @@
 library(ggplot2) # Data visualization
 
-nfa <- read.csv("/Users/jun/Desktop/503 final/ggplots/NFA.csv", stringsAsFactors = FALSE)
+nfa <- read.csv("NFA.csv", stringsAsFactors = FALSE)
 
 plot2 <- ggplot(nfa[nfa$country=='World' & nfa$record %in% c('EFConsPerCap','BiocapPerCap'),],
        aes(x=year,y=total,col=record))+
