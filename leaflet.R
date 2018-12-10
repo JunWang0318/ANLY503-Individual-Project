@@ -10,7 +10,7 @@ world_spdf=readOGR( dsn= getwd() , layer="TM_WORLD_BORDERS_SIMPL-0.3")
 #head(world_spdf@data)
 #summary(world_spdf@data)
 
-df <- read.csv('~/Desktop/leafletdata.csv')
+df <- read.csv('leafletdata.csv')
 world_spdf@data = df
 
 # Modify these info
