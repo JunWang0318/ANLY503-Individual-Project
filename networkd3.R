@@ -1,7 +1,7 @@
 library(networkD3)
 
-edgelist <- read.csv('/Users/jun/Desktop/503 final/networkd3/edgelist.csv')
-nodelist <- read.csv('/Users/jun/Desktop/503 final/networkd3/nodelist.csv')
+edgelist <- read.csv('edgelist.csv')
+nodelist <- read.csv('nodelist.csv')
 
 forceNetwork(Links = edgelist, 
              Nodes = nodelist,
