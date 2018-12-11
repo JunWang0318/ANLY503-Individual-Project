@@ -1,7 +1,7 @@
 library(plotly)
 packageVersion('plotly')
 
-nfa <- read.csv("/Users/jun/Desktop/503 final/ggplots/NFA.csv", stringsAsFactors = FALSE)
+nfa <- read.csv("NFA.csv", stringsAsFactors = FALSE)
 
 china <- nfa[which(nfa$country=='China'& 
                     nfa$year==2014 & 
